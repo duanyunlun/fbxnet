@@ -10,7 +10,7 @@ namespace FbxNet
     {
         static void Main(string[] args)
         {
-            IntPtr pGameObject = FbxInterface.LoadGameObject(@"C:\Users\pengu\Desktop\tianhua\TA0000101.FBX");
+            IntPtr pGameObject = FbxInterface.LoadGameObject(@"..\..\ces.FBX");
             PrintGameObject(pGameObject);
             FbxInterface.Destroy(pGameObject);
 

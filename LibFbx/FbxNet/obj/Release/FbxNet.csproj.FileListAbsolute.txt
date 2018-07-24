@@ -1,0 +1,6 @@
+E:\Third Party\fbxnet\LibFbx\build\net\FbxNet.exe
+E:\Third Party\fbxnet\LibFbx\build\net\FbxNet.pdb
+E:\Third Party\fbxnet\LibFbx\FbxNet\obj\Release\FbxNet.csprojAssemblyReference.cache
+E:\Third Party\fbxnet\LibFbx\FbxNet\obj\Release\FbxNet.csproj.CoreCompileInputs.cache
+E:\Third Party\fbxnet\LibFbx\FbxNet\obj\Release\FbxNet.exe
+E:\Third Party\fbxnet\LibFbx\FbxNet\obj\Release\FbxNet.pdb
